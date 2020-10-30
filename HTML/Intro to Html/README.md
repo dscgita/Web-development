@@ -7,7 +7,7 @@
 **VsCode Download link:** [LINK](https://code.visualstudio.com/)
 
 ### 3-Read the topics from this site till where we have covered.
-**Referecne Learning Link** [w3Schools](https://www.w3schools.com/html/default.asp)
+**Referecne Learning Link** [Link](https://www.w3schools.com/html/default.asp)
 
 ### 4-Practice...Practice...Practice...till next lesson.
 
